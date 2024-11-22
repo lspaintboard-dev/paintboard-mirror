@@ -1,0 +1,6 @@
+pillow
+uuid
+requests
+django
+psycopg2
+redis
